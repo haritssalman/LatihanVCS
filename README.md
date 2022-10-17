@@ -7,8 +7,6 @@ Langkah pertama adalah penginstalan Git terlebih dahulu sebagai berikut:
     ![git](https://user-images.githubusercontent.com/115677440/196120895-26d57a1a-343a-4aa5-b389-f475ab10e250.png)
     
 	. Pilih menu Download > lalu pilih device anda
-	
-    ![downloadgit](https://user-images.githubusercontent.com/115677440/196123036-83dd5d5e-c1fb-47e0-ae6c-4dae3125477e.png)
     
 	. Silakan download, tergantung dengan device anda apakah 32 bit atau 64 bit, disini saya memakai 64 bit
 	
@@ -18,8 +16,6 @@ Langkah pertama adalah penginstalan Git terlebih dahulu sebagai berikut:
 	
 	. Klik next sampai tahap penginstalan
 	
-    ![instalgit](https://user-images.githubusercontent.com/115677440/196120986-bddba373-cc8b-4aa6-8fad-8bf83f12c3a2.png)
-    
   . setelah itu buka Git bash,ini adalah tampilan awalnya
     ![awal gitbash](https://user-images.githubusercontent.com/115677440/196123006-de0d5f71-9d79-4b45-a7e6-7cade84a0259.png)
 
