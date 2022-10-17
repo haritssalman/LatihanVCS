@@ -81,5 +81,10 @@ Langkah pertama adalah penginstalan Git terlebih dahulu sebagai berikut:
   . untuk memeriksa hasil,buka kembali website github > user > repository > klik repository
     maka ini hasilnya
     ![hasil](https://user-images.githubusercontent.com/115677440/196123758-cc24823c-33ea-4556-a172-1279eb286dae.png)
+    
+# CLONE REPOSITORY
+  .Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
+Perintahnya adalah $ git clone [URL]
+![Screenshot (76)](https://user-images.githubusercontent.com/115677440/196157053-a49b35a3-e1c2-428b-ace5-084e9f16fa8e.png)
 
 # TERIMA KASIH
