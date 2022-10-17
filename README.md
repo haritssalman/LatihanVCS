@@ -7,7 +7,8 @@ Langkah pertama adalah penginstalan Git terlebih dahulu sebagai berikut:
     ![git](https://user-images.githubusercontent.com/115677440/196120895-26d57a1a-343a-4aa5-b389-f475ab10e250.png)
     
 	. Pilih menu Download > lalu pilih device anda
-    
+![downloadgit](https://user-images.githubusercontent.com/115677440/196155328-7a016988-5049-4b96-83f2-31d70bc6832d.png)
+
 	. Silakan download, tergantung dengan device anda apakah 32 bit atau 64 bit, disini saya memakai 64 bit
 	
 	. Jika sudah maka pergi ke file manager > download > file git yang sudah di download
@@ -15,7 +16,8 @@ Langkah pertama adalah penginstalan Git terlebih dahulu sebagai berikut:
 	. Klik kanan > lalu run as administrator
 	
 	. Klik next sampai tahap penginstalan
-	
+![instalgit](https://user-images.githubusercontent.com/115677440/196155340-5231e126-b160-4722-b765-213b6cb57a05.png)
+
   . setelah itu buka Git bash,ini adalah tampilan awalnya
     ![awal gitbash](https://user-images.githubusercontent.com/115677440/196123006-de0d5f71-9d79-4b45-a7e6-7cade84a0259.png)
 
@@ -62,6 +64,7 @@ Langkah pertama adalah penginstalan Git terlebih dahulu sebagai berikut:
     ![tampilan awal (2)](https://user-images.githubusercontent.com/115677440/196123780-ad18008b-32f4-4599-8352-139575c93168.png)
     
   . masukan nama repository, klik create repository
+![repository git (2)](https://user-images.githubusercontent.com/115677440/196155353-05ba4d55-2ddf-4659-a583-48de2b44fb71.png)
     
 # D.Mengirim perubahan
   Setelah kita membuat repository local dan repository server,kita akan mengirim file ke repository server caranya adalah sebagai berikut: 
