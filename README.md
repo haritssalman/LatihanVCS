@@ -1,6 +1,3 @@
-# membuat teks
-
-
 # HALLO NAMA SAYA SALMAN AL HARITS
 Hari Ini Kita Akan Belajar Tentang Version Control System (VCS) Dengan menggunakan Git
 
