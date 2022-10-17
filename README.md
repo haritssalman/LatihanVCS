@@ -39,8 +39,8 @@ Langkah pertama adalah penginstalan Git terlebih dahulu sebagai berikut:
     ![echo](https://user-images.githubusercontent.com/115677440/196123072-e45b6e02-4f6d-4ac2-b57c-89aaf6f99b06.png)
     
   . Sebelum kita menambahkan file kedalam repository,sebaiknya masukan perintah git config agar saat proses git commit tidak eror
-  >$ git config --global user.name "nama.user"
-  >$ git config --global user.email "email.user"
+  ($ git config --global user.name "nama.user"), 
+  ($ git config --global user.email "email.user")
     ![configuser](https://user-images.githubusercontent.com/115677440/196123031-624d70d1-7c71-4c0d-bbb1-651c0a39a7fb.png)
     
   . Setelah menambahkan git config untuk memasukan file kedalam repository kita gunakan perintah $ git add README.md
